@@ -1,4 +1,4 @@
 # README
-BB-GeoPT.txt: the fine-tuning dataset;
+BB-GeoPT.txt: the pre-training dataset;
 
-BB-GeoSFT.json: the pre-training dataset;
+BB-GeoSFT.json: the fine-tuning dataset;
