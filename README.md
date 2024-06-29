@@ -14,13 +14,22 @@ BB-GeoGPT and all our publicly available data are intended for research preview 
 
 ## Citation
 @article{zhang2024bb,
+
   title={BB-GeoGPT: A framework for learning a large language model for geographic information science},
+  
   author={Zhang, Yifan and Wang, Zhiyun and He, Zhengting and Li, Jingxuan and Mai, Gengchen and Lin, Jianfeng and Wei, Cheng and Yu, Wenhao},
+  
   journal={Information Processing \& Management},
+  
   volume={61},
+  
   number={5},
+  
   pages={103808},
+  
   year={2024},
+  
   publisher={Elsevier}
+  
 }
 
