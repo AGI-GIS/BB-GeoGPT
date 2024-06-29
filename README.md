@@ -1,4 +1,4 @@
-<h2>BB-GeoGPT: A framework for learning a large language model for geographic information science<h2> [ArXiv](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001675)
+<h2>BB-GeoGPT: A framework for learning a large language model for geographic information science [Elsevier](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001675)<h2>
 
 ## Framework
 ![framework](framework.png)
