@@ -13,14 +13,15 @@ The Subjective Questions data and Objective Questions data is the experimental d
 BB-GeoGPT and all our publicly available data are intended for research preview and non-commercial use only, subject to the model License of LLaMA2. Please contact us if you find any potential violations. If you have any questions, you can emaill us yuwh@cug.edu.cn.
 
 ## Citation
-> @article{zhang2024bb,
->   title={BB-GeoGPT: A framework for learning a large language model for geographic information science},
->   author={Zhang, Yifan and Wang, Zhiyun and He, Zhengting and Li, Jingxuan and Mai, Gengchen and Lin, Jianfeng and Wei, Cheng and Yu, Wenhao},
->   journal={Information Processing \& Management},
->   volume={61},
->   number={5},
->   pages={103808},
->   year={2024},
->   publisher={Elsevier}
-> }
-'''
+```
+@article{zhang2024bb,
+  title={BB-GeoGPT: A framework for learning a large language model for geographic information science},
+  author={Zhang, Yifan and Wang, Zhiyun and He, Zhengting and Li, Jingxuan and Mai, Gengchen and Lin, Jianfeng and Wei, Cheng and Yu, Wenhao},
+  journal={Information Processing \& Management},
+  volume={61},
+  number={5},
+  pages={103808},
+  year={2024},
+  publisher={Elsevier}
+}
+```
