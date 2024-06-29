@@ -1,8 +1,8 @@
-<h2>BB-GeoGPT: A framework for learning a large language model for geographic information science<h2>
+<h2>BB-GeoGPT: A framework for learning a large language model for geographic information science<h2> [ArXiv](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001675)
 
 ## Framework
 ![framework](framework.png)
-The framework for training a large language model for the geographic information science, termed BB-GeoGPT. Firstly, a comprehensive set of training resources, comprising model pretraining data (BB-GeoPT) and supervised fine-tuning instructions (BB-GeoSFT) is curated. Then, BB-GeoGPT is obtained by first adapting an open-source general-domain LLM,LLaMA-2-7B model to the pretraining data BB-GeoPT, and then utilizing the instruction tuning data BB-GeoSFT to further supervise fine-tuning the model. A lightweight training strategy is used in both of these stages. In this repository, we will share the following data.
+The framework for training a large language model for the geographic information science, termed BB-GeoGPT. Firstly, a comprehensive set of training resources, comprising model pretraining data (BB-GeoPT) and supervised fine-tuning instructions (BB-GeoSFT) is curated. Then, BB-GeoGPT is obtained by first adapting an open-source general-domain LLM,LLaMA-2-7B model to the pretraining data BB-GeoPT, and then utilizing the instruction tuning data BB-GeoSFT to further supervise fine-tuning the model. A lightweight training strategy is used in both of these stages. In this repository, we will share training data and evaluation data.
 
 ## Training data
 1. We release the core data for training BB-GeoGPT, which includes the directive fine-tuning dataset stored in ./Data/BB-GeoSFT.json and the pre-training dataset stored in ./Data/BB-GeoPT.txt.
