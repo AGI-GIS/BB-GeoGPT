@@ -5,7 +5,7 @@
 The framework for training a large language model for the geographic information science, termed BB-GeoGPT. Firstly, a comprehensive set of training resources, comprising model pretraining data (BB-GeoPT) and supervised fine-tuning instructions (BB-GeoSFT) is curated. Then, BB-GeoGPT is obtained by first adapting an open-source general-domain LLM,LLaMA-2-7B model to the pretraining data BB-GeoPT, and then utilizing the instruction tuning data BB-GeoSFT to further supervise fine-tuning the model. A lightweight training strategy is used in both of these stages. In this repository, we will share training data and evaluation data.
 
 ## Training data
-We release the core data for training BB-GeoGPT, which includes the directive fine-tuning dataset stored in ./Data/BB-GeoSFT.json and the pre-training dataset stored in ./Data/BB-GeoPT.txt.
+We release the core data for training BB-GeoGPT, which is stored in Data.zip. This includes the instruction fine-tuning dataset in BB-GeoSFT.json and the pre-training dataset in BB-GeoPT.txt.
 
 ## Evaluation data 
 We release a benchmark named BB-GeoEval, stored in ./Evaluation, for evaluating the language model's capabilities from both objective and subjective perspectives.
